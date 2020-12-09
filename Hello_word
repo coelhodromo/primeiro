@@ -4,14 +4,11 @@
 <body>
 
   <p>Before the script...</p>
-
-  <script>
+ <script>
     alert( 'Hello, world!' );
- 
     alert( 'Xmen' );
   </script>
-
-  <p>...After the script.</p>
+<p>...After the script.</p>
 
 </body>
 
