@@ -7,6 +7,8 @@
 
   <script>
     alert( 'Hello, world!' );
+ 
+    alert( 'Xmen' );
   </script>
 
   <p>...After the script.</p>
